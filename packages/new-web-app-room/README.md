@@ -1,6 +1,10 @@
-# AutoShield Agent Toolkit
+# HUNT
 
-This project integrates the [AutoShield Agent Toolkit](https://github.com/TreyKys/autoshield-agent-tookit) - a comprehensive security framework for AI agents and automated systems.
+**Hackathon Tag**: #Nullshot-Hacks-S0
+
+**GitHub Repository**: [https://github.com/TreyKys/autoshield-agent-tookit](https://github.com/TreyKys/autoshield-agent-tookit)
+
+This project integrates the AutoShield Agent Toolkit - a comprehensive security framework for AI agents and automated systems.
 
 ## About AutoShield Agent Toolkit
 
@@ -10,8 +14,6 @@ The AutoShield Agent Toolkit provides advanced security capabilities for AI agen
 - Agent behavior analysis
 - Automated security responses
 - Comprehensive logging and reporting
-
-**GitHub Repository**: [https://github.com/TreyKys/autoshield-agent-tookit](https://github.com/TreyKys/autoshield-agent-tookit)
 
 ---
 
@@ -81,4 +83,5 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+
 
